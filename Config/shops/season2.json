@@ -1,0 +1,792 @@
+[
+    {
+        "id": "BID_001_BlueSquire",
+        "type": "AthenaBackpack",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "BID_002_RoyaleKnight",
+        "type": "AthenaBackpack",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "BID_004_BlackKnight",
+        "type": "AthenaBackpack",
+        "rarity": "legendary",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_032_Athena_Commando_M_Medieval",
+        "type": "AthenaCharacter",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_033_Athena_Commando_F_Medieval",
+        "type": "AthenaCharacter",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_035_Athena_Commando_M_Medieval",
+        "type": "AthenaCharacter",
+        "rarity": "legendary",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_039_Athena_Commando_F_Disco",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_052_Athena_Commando_F_PSBlue",
+        "type": "AthenaCharacter",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_053_Athena_Commando_M_SkiDude",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_054_Athena_Commando_M_SkiDude_USA",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_055_Athena_Commando_M_SkiDude_CAN",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_056_Athena_Commando_M_SkiDude_GBR",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_057_Athena_Commando_M_SkiDude_FRA",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_058_Athena_Commando_M_SkiDude_GER",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_059_Athena_Commando_M_SkiDude_CHN",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_060_Athena_Commando_M_SkiDude_KOR",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_061_Athena_Commando_F_SkiGirl",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_062_Athena_Commando_F_SkiGirl_USA",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_063_Athena_Commando_F_SkiGirl_CAN",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_064_Athena_Commando_F_SkiGirl_GBR",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_065_Athena_Commando_F_SkiGirl_FRA",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_066_Athena_Commando_F_SkiGirl_GER",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_067_Athena_Commando_F_SkiGirl_CHN",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_068_Athena_Commando_F_SkiGirl_KOR",
+        "type": "AthenaCharacter",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_069_Athena_Commando_F_PinkBear",
+        "type": "AthenaCharacter",
+        "rarity": "legendary",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_070_Athena_Commando_M_Cupid",
+        "type": "AthenaCharacter",
+        "rarity": "legendary",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_071_Athena_Commando_M_Wukong",
+        "type": "AthenaCharacter",
+        "rarity": "legendary",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_072_Athena_Commando_M_Scout",
+        "type": "AthenaCharacter",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_073_Athena_Commando_F_Scuba",
+        "type": "AthenaCharacter",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_074_Athena_Commando_F_Stripe",
+        "type": "AthenaCharacter",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_075_Athena_Commando_F_Stripe",
+        "type": "AthenaCharacter",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_076_Athena_Commando_F_Sup",
+        "type": "AthenaCharacter",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_077_Athena_Commando_M_Sup",
+        "type": "AthenaCharacter",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_078_Athena_Commando_M_Camo",
+        "type": "AthenaCharacter",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "CID_079_Athena_Commando_F_Camo",
+        "type": "AthenaCharacter",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_Flapper",
+        "type": "AthenaDance",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_Flex",
+        "type": "AthenaDance",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_Floss",
+        "type": "AthenaDance",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_KissKiss",
+        "type": "AthenaDance",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_PureSalt",
+        "type": "AthenaDance",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_RideThePony_Athena",
+        "type": "AthenaDance",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_TrueLove",
+        "type": "AthenaDance",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_Wave",
+        "type": "AthenaDance",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "EID_Worm",
+        "type": "AthenaDance",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_ArmFlex",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Baited",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Bullseye",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Clapping",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Disco",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Exclamation",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_FistBump",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_HeartHands",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_ISeeYou",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_LOL",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Lucky",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_MVP",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_OnFire",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_PeaceSign",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_PickAxe",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_PotatoAim",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Potion",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Rage",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_RIP",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Salty",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Emoji_Stealthy",
+        "type": "AthenaEmoji",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Glider_ID_002_Medieval",
+        "type": "AthenaGlider",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Glider_ID_003_District",
+        "type": "AthenaGlider",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Glider_ID_004_Disco",
+        "type": "AthenaGlider",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Glider_ID_012_TeddyBear",
+        "type": "AthenaGlider",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Glider_ID_013_PSBlue",
+        "type": "AthenaGlider",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Glider_ID_020_Fighter",
+        "type": "AthenaGlider",
+        "rarity": "uncommon",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Pickaxe_ID_011_Medieval",
+        "type": "AthenaPickaxe",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Pickaxe_ID_012_District",
+        "type": "AthenaPickaxe",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Pickaxe_ID_013_Teslacoil",
+        "type": "AthenaPickaxe",
+        "rarity": "epic",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Pickaxe_ID_019_Heart",
+        "type": "AthenaPickaxe",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Pickaxe_ID_023_SkiBoot",
+        "type": "AthenaPickaxe",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Pickaxe_ID_024_Plunger",
+        "type": "AthenaPickaxe",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Pickaxe_ID_025_Dragon",
+        "type": "AthenaPickaxe",
+        "rarity": "rare",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    },
+    {
+        "id": "Umbrella_Snowflake",
+        "type": "AthenaGlider",
+        "rarity": "common",
+        "introduction": {
+            "chapter": "1",
+            "season": "2"
+        },
+        "shopHistory": null
+    }
+]

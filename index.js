@@ -5,7 +5,7 @@ const rateLimit = require("express-rate-limit");
 const jwt = require("jsonwebtoken");
 const path = require("path");
 const config = JSON.parse(fs.readFileSync("./Config/config.json").toString());
-
+const { spawn } = require('child_process');
 const log = require("./structs/log.js");
 const error = require("./structs/error.js");
 const functions = require("./structs/functions.js");
@@ -13,6 +13,15 @@ const functions = require("./structs/functions.js");
 const app = express();
 
 if (!fs.existsSync("./ClientSettings")) fs.mkdirSync("./ClientSettings");
+
+const child = spawn('node', ['structs/shop.js'], {
+    stdio: 'inherit' // This will inherit the stdio so that you can see the output in the console
+});
+console.log("started auto rotate");
+
+child.on('exit', (code) => {
+    console.log(`other.js process exited with code ${code}`);
+});
 
 global.JWT_SECRET = functions.MakeID();
 const PORT = config.port;
